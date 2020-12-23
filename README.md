@@ -1,8 +1,8 @@
 # NEAR Wallet public roadmap 
 
-In this repository, you can find the official [NEAR Wallet](https://github.com/near/near-wallet) product roadmap. Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [NEAR Governance Forum](https://gov.near.org/), or get in touch on Discord, via [https://near.chat].
+In this repository, you can find the official [NEAR Wallet product roadmap](https://github.com/near/near-wallet-roadmap/projects/1). Our product roadmap is where you can learn about what NEAR Wallet features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [NEAR Governance Forum](https://gov.near.org/), get in touch on Discord via [https://near.chat], or open an issue in the official [NEAR wallet repo](https://github.com/near/near-wallet).
 
-The roadmap repository is for communicating NEAR’s roadmap for the Wallet at the address [https://wallet.near.org]. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from NEAR. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of NEAR protocol and products. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [this thread](#) on the NEAR Governance Forum.
+This roadmap repository is for communicating NEAR’s roadmap for the Wallet at the address [https://wallet.near.org]. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from NEAR. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of NEAR protocol and products. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [this thread](#) on the NEAR Governance Forum.
 
 ## Guide to the roadmap
 Every item on the roadmap is an issue, with a label that indicates each of the following:
@@ -13,21 +13,21 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 ## Release Phases
 Every product or feature goes through a set of release phases, from early testing to general availability.
 
-* alpha: Primarily for testing and feedback
+* **alpha:** Primarily for testing and feedback
 Limited availability, requires pre-release agreement. Features still under heavy development, and subject to change. Not for production use, and no documentation, SLAs or support provided.
 
-* beta: Publicly available in full or limited capacity
+* **beta:** Publicly available in full or limited capacity
 Features mostly complete and documented. Timeline and requirements for GA usually published. No SLAs or support provided.
 
-* ga: Generally available to all customers
+* **ga:** Generally available to all customers
 Ready for production use with associated SLA and technical support obligations. Approximately 1-2 quarters from Beta.
 
 Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows:
 
-* in design:
+* **in design:**
 Feature in discovery phase. We have decided to build this feature, but are still figuring out how.
 
-* exploring:
+* **exploring:**
 Feature under consideration. We are considering building this feature, and gathering feedback on it.
 
 
