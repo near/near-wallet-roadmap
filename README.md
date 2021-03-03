@@ -13,6 +13,9 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 ## Release Phases
 Every product or feature goes through a set of release phases, from early testing to general availability.
 
+* **in development**
+Feature is actively under software development, and it's visible among the [near-wallet pull requets](https://github.com/near/near-wallet/pulls).
+
 * **alpha:** Primarily for testing and feedback
 Limited availability, requires pre-release agreement. Features still under heavy development, and subject to change. Not for production use, and no documentation, SLAs or support provided.
 
@@ -38,6 +41,15 @@ The roadmap is arranged on a project board to give a sense for how far out each 
 * **onboarding:** token holders using NEAR Wallet for the first time
 * **ecosystem:** NEAR Wallet interoperability
 * **power users:** token holders using NEAR Wallet as their primary application
+* **security and compliance:** impacting all users and the reputation of NEAR Wallet
+
+## Submit your Feature Request!
+This roadmap is open for proporals! Open a [new issue](https://github.com/near/near-wallet-roadmap/issues/new/choose), use the provided template to put the required information, and inform the wallet team on Discord it is ready for review, using [this near.chat link](https://near.chat).
+Expect some discussion and questions and two outcomes:
+- the feature is included in the roadmap, straight away
+- the feature is not accepted, and put in the last column on the right
+
+If your feature is not accepted, don't delete it! NEAR Wallet team will review them on a quarterly basis, and potentially give a new chance to it!
 
 ## Disclaimer
 Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to NEAR as of the date they are made, and NEAR assumes no obligation to update any forward-looking statements. The forward-looking product roadmap does not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and is intended to outline the general development plans. Users should not rely on this roadmap to make any purchasing or product decision.
