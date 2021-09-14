@@ -1,3 +1,8 @@
+# Heads up!
+The wallet roadmap has moved at this new link: https://portal.productboard.com/lnpb6dhpyz225uxhuo74d32p
+
+_Old version below_
+
 # NEAR Wallet public roadmap 
 
 In this repository, you can find the official [NEAR Wallet product roadmap](https://github.com/near/near-wallet-roadmap/projects/1). Our product roadmap is where you can learn about what NEAR Wallet features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [NEAR Governance Forum](https://gov.near.org/), get in touch on Discord via [https://near.chat], or open an issue in the official [NEAR wallet repo](https://github.com/near/near-wallet).
